@@ -35,6 +35,6 @@ function startConfetti() {
 // Function to change the background color gradually after the gift is opened
 function changeBackground() {
   setTimeout(function() {
-    body.style.backgroundColor = '#080342'; // New background color after gift opens
+    body.style.backgroundColor = 'rgb(21, 145, 194)'; // New background color after gift opens
   }, 1000); // Delay the color change by 1 second for smoother transition
 }
